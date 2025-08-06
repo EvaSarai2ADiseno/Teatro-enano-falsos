@@ -108,3 +108,23 @@ footer {
   text-align: center;
 }
 
+.video-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.volver-btn {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #ff693f;
+  font-size: 1.1rem;
+}
+
+.volver-btn:hover {
+  color: #fff176;
+}
+
+
+
